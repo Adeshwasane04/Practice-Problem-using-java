@@ -2,7 +2,7 @@ package Recurssion;
 
 public class FibonacciNumber {
     public static void main(String[] args) {
-        int num=10;
+        int num=5;
          System.out.println("fibonacci of the Number is : " +isSumOfFibonaacciNumber(num));
     }
     static int isSumOfFibonaacciNumber(int num)
