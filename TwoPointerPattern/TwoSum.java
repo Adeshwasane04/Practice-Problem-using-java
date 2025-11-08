@@ -1,5 +1,5 @@
 package TwoPointerPattern;
-
+// problem to find the two sum
 public class TwoSum {
     public static void main(String[] args) {
         int[] num = {-10, -8, -2, 1, 2, 5, 6};
