@@ -1,4 +1,4 @@
-package TwoPointerPattern;
+package Twopointer;
     public class TwoSumUsingBinary {
         public static void main(String[] args) {
             int nums[]={2,7,11,15};

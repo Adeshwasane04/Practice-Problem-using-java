@@ -1,4 +1,4 @@
-package TwoPointerPattern;
+package Twopointer;
 // problem to find the two sum
 public class TwoSum {
     public static void main(String[] args) {
