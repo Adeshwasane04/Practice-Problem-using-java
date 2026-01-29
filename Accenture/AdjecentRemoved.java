@@ -29,7 +29,7 @@ public class AdjecentRemoved {
          if(prevChar==currChar)
          {
             isDuplicate=true;
-            continue;
+            
          }
          else{
              if(!isDuplicate)
